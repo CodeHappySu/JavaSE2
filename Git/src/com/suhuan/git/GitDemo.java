@@ -11,6 +11,7 @@ public class GitDemo {
         System.out.println("hi~1");
         System.out.println("hi~2");
         System.out.println("master");
+        System.out.println("hot-fix");
     }
 
 }
