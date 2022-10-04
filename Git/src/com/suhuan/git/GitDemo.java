@@ -14,6 +14,7 @@ public class GitDemo {
         System.out.println("hot-fix");
         System.out.println("master3");
         System.out.println("hot-fix3");
+        System.out.println("xiaowugui");
     }
 
 }
