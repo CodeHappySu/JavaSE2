@@ -8,6 +8,7 @@ public class GitPushAddDemo {
 
     public static void main(String[] args) {
         System.out.println("push1");
+        System.out.println("pull1");
     }
 
 }
