@@ -13,6 +13,7 @@ public class GitDemo {
         System.out.println("master");
         System.out.println("hot-fix");
         System.out.println("master3");
+        System.out.println("hot-fix3");
     }
 
 }
