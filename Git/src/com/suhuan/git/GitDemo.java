@@ -17,6 +17,7 @@ public class GitDemo {
         System.out.println("xiaowugui");
         System.out.println("xiaowugui1");
         System.out.println("xiaowugui2");
+        System.out.println("我在这里故意制造冲突");
     }
 
 }
